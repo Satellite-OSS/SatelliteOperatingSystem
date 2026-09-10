@@ -1,6 +1,6 @@
 <div align="center">
 
- This is a community-curated hub for open-source operating systems, standards, and resources for satellite onboard computers and payloads, maintained by the **OPENSAT** open-source satellite community.
+ This is a community-curated hub for open-source operating systems, standards, and resources for satellite onboard computers and payloads, maintained by the **[OPENSAT](https://github.com/Satellite-OSS)** open-source satellite community.
 
 [![Discussions](https://img.shields.io/badge/Discussions-Join%20the%20Community-2ea44f?style=flat-square&logo=github)](https://github.com/orgs/Satellite-OSS-BUPT/discussions)
 [![README](https://img.shields.io/badge/README-中文-blue?style=flat-square)](README.zh-CN.md)
@@ -11,7 +11,7 @@
 
 ---
 
-## 📂 Directory Overview: (`docs/`)
+## 📂 Available Resources: (`docs/`)
 
 Currently this repository shares documents in the `docs/` directory, which collects industry standards, specifications, whitepapers and reports related to satellite operating systems, so that the community has a common place to find the material that guides design, implementation, evaluation and collaboration.
 

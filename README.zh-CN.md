@@ -1,6 +1,6 @@
 <div align="center">
 
-这是一个由 **OPENSAT** 卫星开源社区维护，汇聚面向卫星星载计算机与载荷的开源操作系统、标准与其他相关资源的开源仓库。
+这是一个由 **[OPENSAT](https://github.com/Satellite-OSS)** 卫星开源社区维护，汇聚面向卫星星载计算机与载荷的开源操作系统、标准与其他相关资源的开源仓库。
 
 [![Discussions](https://img.shields.io/badge/Discussions-Join%20the%20Community-2ea44f?style=flat-square&logo=github)](https://github.com/orgs/Satellite-OSS-BUPT/discussions)
 [![README](https://img.shields.io/badge/README-English-blue?style=flat-square)](README.md)
@@ -10,7 +10,7 @@
 </div>
 
 ---
-## 📂 目录情况：（`docs/`）
+## 📂 已收录资源：（`docs/`）
 
 目前本仓库的文档统一放在 `docs/` 目录中。该目录用于分享与卫星操作系统相关的行业标准、规范、白皮书和研究报告，为社区提供一个集中查找设计、实现、评估与协作依据的地方。
 
