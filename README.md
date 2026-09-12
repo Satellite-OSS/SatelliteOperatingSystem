@@ -17,7 +17,7 @@ Currently this repository shares documents in the `docs/` directory, which colle
 
 | Document | Description |
 | --- | --- |
-| [Open Standard Initiative for Space Operating Systems (太空操作系统开源标准倡议)](docs/太空操作系统开源标准倡议-.pdf) | The community's initiative document on open standards for space operating systems. |
+| [Open Standard Initiative for Space Operating Systems (太空操作系统开源标准倡议)](docs/太空操作系统开源标准倡议-修改.pdf) | The community's initiative document on open standards for space operating systems. |
 
 More material is welcome here, for example: space system standards and recommendations (e.g., CCSDS, ECSS), POSIX profiles and RTOS interface specifications, safety, security and qualification/certification guidance, and whitepapers or technical reports from industry, academia and open-source projects. If you would like to add a document, simply open a pull request with the file placed under `docs/`.
 
